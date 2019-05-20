@@ -1,2 +1,2 @@
 # PUBG_kaggle
-PUBG gaggle competition
+PUBG kaggle competition
